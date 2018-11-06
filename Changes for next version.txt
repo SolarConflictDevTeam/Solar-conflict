@@ -4,3 +4,4 @@
 4. pollution mechanics-builder
 5. tech shareing mechanics-builder
 6. culture and migration mechanics - builder and limbo
+7. organize git hub assets- star
