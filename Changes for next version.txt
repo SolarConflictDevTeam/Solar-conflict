@@ -3,8 +3,4 @@
 3. pollution bags-limbo
 4. pollution mechanics-builder
 5. tech shareing mechanics-builder
-<<<<<<< HEAD
 6. culture and migration mechanics - builder and limbo
-=======
-6.test
->>>>>>> 47e56762c32b0f96f73c77805c4840151016a5e3
