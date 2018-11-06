@@ -1,5 +1,5 @@
-1. lock all counters and items
-2. update all guides
-3. pollution bags
-4. pollution mechanics
-5. tech shareing mechanics
+1. lock all counters and items- Limbo
+2. update all guides- Builder
+3. pollution bags-limbo
+4. pollution mechanics-builder
+5. tech shareing mechanics-builder
